@@ -50,6 +50,13 @@ movie-recommendation-system/
 ├── README.md                        # Project documentation
 ├── LICENSE                          # Open-source license (MIT recommended)
 ├── .gitignore                       # Files to ignore in git
+
+## 🛠️ Installation
+
+Install required libraries:
+
+```bash
+pip install pandas scikit-learn nltk
 ```
 
 ## 📂 Dataset
@@ -58,4 +65,6 @@ Due to GitHub file size limitations, dataset is stored externally.
 -------------------------------------------
 👉 Download here:  
 [Google Drive Link](https://drive.google.com/file/d/1uKwg4FdLQxq7Efv-RRyKJrV4GD6mj2Ch/view?usp=sharing)
+
+
 
